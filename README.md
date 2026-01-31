@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **singhashish1730@gmail.com** For Collaboration/Project or 
 
 - 🔭 **I’m currently working on a project:** DhanSetu — a React-based financial dashboard.
 - 🌱 **I’m currently learning:** MERN-Stack Web Development, React, Redux, DSA
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 👯 **I’m looking to collaborate on:** DhanSetu
 - 🤔 **I’m looking for help with:** DhanSetu (Advanced MERN stack patterns and best practices)
 - 💬 **Ask me about:** Project Collaboration, Tech Support
 - 📫 **How to reach me:** www.linkedin.com/in/ashish-kumar-a1bba32a6
